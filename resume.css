@@ -1,0 +1,11 @@
+.image{
+	background-image: url('image/prof1.jpg');
+	height: 300px;
+	width: 355px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.image h4{
+	padding-top:250px;
+	padding-left: 10px;
+}
